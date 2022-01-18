@@ -21,10 +21,13 @@
   <img align="center" alt="Calvim-Excel" height="30" width="40"src="https://img.icons8.com/color/48/000000/ms-excel.png"/>
  
 </div> 
+  ##
   
+  <div>
+  <a href = "mailto:calvim.aoyama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/calvim-aoyama-10279491/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  
-  
+  </div>
   
 
 <!---
