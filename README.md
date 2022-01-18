@@ -19,7 +19,7 @@
   <img align="center" alt="Calvim-Tableau" height="30" width="40" src="https://img.icons8.com/color/48/000000/tableau-software.png">
   <img align="center" alt="Calvim-Powerbi" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
   <img align="center" alt="Calvim-Excel" height="30" width="40"src="https://img.icons8.com/color/48/000000/ms-excel.png"/>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+ 
 </div> 
   
   
