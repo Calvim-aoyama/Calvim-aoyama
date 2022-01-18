@@ -10,6 +10,7 @@
 </div>
 
  <div style="display: inline_block"><br>
+   <img align="center" alt="Calvim-SQL" height="30" width="40"src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png">
   <img align="center" alt="Calvim-SQL" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
   <img align="center" alt="Calvim-PDADMIN" height="30" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png">
   <img align="center" alt="Calvim-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
