@@ -26,7 +26,7 @@
   <div>
   <a href = "mailto:calvim.aoyama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/calvim-aoyama-10279491/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://calvimaoyama.wixsite.com/my-site" target="_blank"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" width="200" alt="logo website, website logo png transparent background background"  target="_blank"></a> 
+   <a href="https://calvimaoyama.wixsite.com/my-site" target="_blank"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" width="100" alt="logo website, website logo png transparent background background"  target="_blank"></a> 
   
   </div>
   
