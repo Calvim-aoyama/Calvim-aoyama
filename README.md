@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou Calvim Aoyama
-- 👀 Tenho interesse em análise de dados, SQL, Python, R, PoweBI, Tableau.
+- 👀 Tenho interesse em análise de dados, SQL, Python, R, PowerBI, Tableau.
 - 🌱 Estudando SQL,Python, R , POWERBI, TAbleau
 - 🙋‍♂️ Pronouns ele/dele
 
